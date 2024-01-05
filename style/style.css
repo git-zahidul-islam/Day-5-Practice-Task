@@ -1,0 +1,97 @@
+/* index page design */
+/* body {
+    min-height: 100vh;
+} */
+header > ul {
+    display: flex;
+    margin-top: 50px;
+}
+header ul > li {
+    list-style: none;
+    margin-right: 15px;
+    background-color: rgba(201, 108, 72, 0.798);
+    padding: 5px 10px;
+    border-left: 6px solid green;
+}
+
+ul li > a {
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+}
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main .index-head {
+    font-size: 10rem;
+}
+footer p {
+    text-align: center;
+    margin-top: 130px;
+}
+/* index design end */
+
+/* practice 1 design start here */
+
+.search-group {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+hr {
+    margin-top: 20px;
+}
+.search-img {
+    width: 450px;
+}
+.search-img img {
+    width: 100%;
+}
+form {
+    margin-top: -10px;
+}
+
+/* practice 1 design start here */
+
+/* practice 2 design start here */
+.my-data p {
+    border: 2px solid gray;
+    padding: 10px 20px;
+}
+.btn {
+    border: none;
+    padding: 5px;
+    border: 2px solid purple;
+    background: none;
+}
+.btn:hover {
+    background-color: blueviolet;
+}
+.reset:hover {
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+}
+/* practice 2 design start here */
+
+/* practice 3 design start here */
+th, td , table {
+    border: 1px solid black;
+}
+th , td {
+    padding: 5px;
+}
+.prac-3 {
+    background-color: lightgray;
+    padding: 10px 10px;
+    margin-top: 5rem;
+}
+.prac-3footer {
+    background-color: lightslategray;
+    padding: 10px;
+    margin-top: 150px;
+}
+/* practice 3 design start here */
+
